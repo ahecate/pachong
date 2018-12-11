@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e93a5c4-5a51-46cc-b3ba-decda72bf266" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doutula.py" beforeDir="false" afterPath="$PROJECT_DIR$/doutula.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <ignored path="pachong.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -19,7 +19,7 @@
     <SUITE FILE_PATH="coverage/pachong$Unittests_in_test_name_function_py.coverage" NAME="Unittests in test_name_function.py Coverage Results" MODIFIED="1544348536964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/images" />
     <SUITE FILE_PATH="coverage/pachong$qiushibaike.coverage" NAME="qiushibaike Coverage Results" MODIFIED="1543913597880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pachong$Unittests_for_test_survey_TestAnnoymousSurvey_test_store_single_response.coverage" NAME="Unittests for test_survey.TestAnnoymousSurvey.test_store_single_response Coverage Results" MODIFIED="1544365388069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/pachong$doutula.coverage" NAME="doutula Coverage Results" MODIFIED="1544518917006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pachong$doutula.coverage" NAME="doutula Coverage Results" MODIFIED="1544535973709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pachong$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1544443588191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pachong$runoob.coverage" NAME="runoob Coverage Results" MODIFIED="1543892353447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pachong$Unittests_in_test_get_formatted_name_py.coverage" NAME="Unittests in test_get_formatted_name.py Coverage Results" MODIFIED="1544364957751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -41,7 +41,7 @@
     <SUITE FILE_PATH="coverage/pachong$Unittests_for_test_survey_TestAnnoymousSurvey.coverage" NAME="Unittests for test_survey.TestAnnoymousSurvey Coverage Results" MODIFIED="1544365862301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
     <SUITE FILE_PATH="coverage/pachong$Unittests_for_test_get_formatted_name_TestGet_formatted_name_test_get_formatted_name.coverage" NAME="Unittests for test_get_formatted_name.TestGet_formatted_name.test_get_formatted_name Coverage Results" MODIFIED="1544348453260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pachong$Unittests_for_test_name_function_NamesTestCase.coverage" NAME="Unittests for test_name_function.NamesTestCase Coverage Results" MODIFIED="1544348461558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pachong$test.coverage" NAME="test Coverage Results" MODIFIED="1543473600372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pachong$test.coverage" NAME="test Coverage Results" MODIFIED="1544521199601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pachong$Unittests_in_test_survey_py.coverage" NAME="Unittests in test_survey.py Coverage Results" MODIFIED="1544365896729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
     <SUITE FILE_PATH="coverage/pachong$doubantop250.coverage" NAME="doubantop250 Coverage Results" MODIFIED="1544070202422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pachong$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1544079229163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -73,22 +73,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/doutula.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+            <state relative-caret-position="413">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-              <folding>
-                <element signature="e#50#65#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -155,9 +143,9 @@
         <option value="$PROJECT_DIR$/book/test_survey.py" />
         <option value="$PROJECT_DIR$/test_ccmine.py" />
         <option value="$PROJECT_DIR$/doutula_keywords.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/login.py" />
         <option value="$PROJECT_DIR$/test_login.py" />
+        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/doutula.py" />
       </list>
     </option>
@@ -281,6 +269,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pachong" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -305,21 +315,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in test_ccmine.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="pachong" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_ccmine.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Unittests in test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="pachong" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -337,18 +332,18 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.Unittests in test_login.py" />
-      <item itemvalue="Python tests.Unittests in test_ccmine.py" />
       <item itemvalue="Python tests.Unittests for test_login.TestLogin.test_cc_user_packages" />
       <item itemvalue="Python.doutula" />
       <item itemvalue="Python.doutula_keywords" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.doutula" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.doutula_keywords" />
         <item itemvalue="Python tests.Unittests in test_login.py" />
         <item itemvalue="Python tests.Unittests for test_login.TestLogin.test_cc_user_packages" />
-        <item itemvalue="Python tests.Unittests in test_ccmine.py" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +362,7 @@
       <workItem from="1544074975830" duration="1553000" />
       <workItem from="1544322501267" duration="4579000" />
       <workItem from="1544344665112" duration="8786000" />
-      <workItem from="1544433674563" duration="15467000" />
+      <workItem from="1544433674563" duration="17727000" />
     </task>
     <servers />
   </component>
@@ -404,7 +399,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42305000" />
+    <option name="totallyTimeSpent" value="44565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -415,8 +410,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33493975" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39891696" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30843374" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3987952" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -614,16 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-          <folding>
-            <element signature="e#50#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doubantop250.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1045">
@@ -644,10 +629,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/doutula.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        <state relative-caret-position="413">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
