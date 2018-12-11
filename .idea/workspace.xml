@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e93a5c4-5a51-46cc-b3ba-decda72bf266" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doutula.py" beforeDir="false" afterPath="$PROJECT_DIR$/doutula.py" afterDir="false" />
     </list>
     <ignored path="pachong.iws" />
@@ -18,7 +19,7 @@
     <SUITE FILE_PATH="coverage/pachong$Unittests_in_test_name_function_py.coverage" NAME="Unittests in test_name_function.py Coverage Results" MODIFIED="1544348536964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/images" />
     <SUITE FILE_PATH="coverage/pachong$qiushibaike.coverage" NAME="qiushibaike Coverage Results" MODIFIED="1543913597880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pachong$Unittests_for_test_survey_TestAnnoymousSurvey_test_store_single_response.coverage" NAME="Unittests for test_survey.TestAnnoymousSurvey.test_store_single_response Coverage Results" MODIFIED="1544365388069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/book" />
-    <SUITE FILE_PATH="coverage/pachong$doutula.coverage" NAME="doutula Coverage Results" MODIFIED="1544518018115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pachong$doutula.coverage" NAME="doutula Coverage Results" MODIFIED="1544518917006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pachong$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1544443588191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pachong$runoob.coverage" NAME="runoob Coverage Results" MODIFIED="1543892353447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pachong$Unittests_in_test_get_formatted_name_py.coverage" NAME="Unittests in test_get_formatted_name.py Coverage Results" MODIFIED="1544364957751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -72,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/doutula.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+            <state relative-caret-position="190">
+              <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -366,7 +367,7 @@
       <workItem from="1544074975830" duration="1553000" />
       <workItem from="1544322501267" duration="4579000" />
       <workItem from="1544344665112" duration="8786000" />
-      <workItem from="1544433674563" duration="15131000" />
+      <workItem from="1544433674563" duration="15467000" />
     </task>
     <servers />
   </component>
@@ -403,7 +404,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41969000" />
+    <option name="totallyTimeSpent" value="42305000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -645,8 +646,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/doutula.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        <state relative-caret-position="190">
+          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>

@@ -27,12 +27,12 @@ def page(url):
             print("mkdir dir")
 
         # 下载方式1
-        try:
-            urllib.request.urlretrieve(img_url, 'images/' + fileName)
-        except FileNotFoundError:
-            print("emm…大概是文件名有/暂时不处理嘻嘻")
-        else:
-            print("下载成功----" + fileName)
+        # try:
+        #     urllib.request.urlretrieve(img_url, 'images/' + fileName)
+        # except FileNotFoundError:
+        #     print("emm…大概是文件名有/暂时不处理嘻嘻")
+        # else:
+        #     print("下载成功----" + fileName)
 
         # 下载方式2 写入文件
         # img_content = requests.get(img_url).content
