@@ -20,7 +20,6 @@ def page(url):
     for i in links:
         alt = i['alt']
         img_url = i['data-backup'].replace('!dta', '')
-        # img_url=..[:-4]
         suffix = img_url.split('.')[-1]
         fileName = alt + '.' + suffix
 
@@ -31,7 +30,7 @@ def page(url):
 
         # 下载方式1
         try:
-            urllib.request.urlretrieve(img_url, 'images/' + fileName)
+            urllib.request.urlretrieve(img_url, dir + '/' + fileName)
         except FileNotFoundError:
             print("emm…大概是文件名有/暂时不处理嘻嘻")
         else:
