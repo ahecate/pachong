@@ -26,7 +26,6 @@ def page(url):
         dir = 'images'
         if not os.path.exists(dir):
             os.mkdir(dir)
-            print("mkdir dir")
 
         # 下载方式1
         try:
