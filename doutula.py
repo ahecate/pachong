@@ -44,7 +44,8 @@ def page(url):
 
 def main():
     for num in range(1, 2):
-        url = f'https://www.doutula.com/photo/list/?page={num}'
+        url='https://www.doutula.com/photo/list/'
+        # url = f'https://www.doutula.com/photo/list/?page={num}'
         print(f"这是第{num}页～")
         page(url)
 

@@ -37,7 +37,7 @@ def page(url):
 
 
 def main():
-    keywords = '工作'
+    keywords = '爸爸'
     for num in range(1,2):
         url = f'https://www.doutula.com/search?keyword={keywords}&page={num}'
         print(url)
